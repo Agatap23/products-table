@@ -1,0 +1,6 @@
+.table-head {
+    background-color: rgba(0, 0, 0, 0.04);
+}
+.table-header-cell {
+    font-weight: 700 !important;
+}
